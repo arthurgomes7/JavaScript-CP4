@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "supervillains": "^4.0.0"
+  },
+  "name": "@arthurgomes7/javascript-cp4",
+  "version": "1.0.0",
+  "description": "Modulo para geração de nomes de Super Vilões, apresentando frases digitadas pelo usuário como se fosse a fala de um Super Vilão",
+  "main": "newConsolelog.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurgomes7/JavaScript-CP4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurgomes7/JavaScript-CP4/issues"
+  },
+  "homepage": "https://github.com/arthurgomes7/JavaScript-CP4#readme"
+}
